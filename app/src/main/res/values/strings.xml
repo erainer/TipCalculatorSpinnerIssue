@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="image_waiter">Simple Waiter</string>
+    <string name="txt_tip">TIP</string>
+    <string name="mealCharges">Charge for meal</string>
+    <string name="btnCalculate">Calculate Tip</string>
+    <string name="spinnerTitle">Percentage</string>
+    //hello
+    <string-array name="spinArray">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+
+</resources>
